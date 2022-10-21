@@ -1,0 +1,17 @@
+ACCURACY OF MODEL WITH DATASETS:-
+
+
+DATASET -1: tic-tac-toe
+		Accuracy Of Model: 84.02777777777779
+
+DATASET -2: kr-vs-kp
+		Accuracy Of Model: 99.27007299270073
+
+DATASET -3: balloons
+		Accuracy Of Model: 100.0
+
+DATASET -4: lenses
+		Accuracy Of Model: 62.5
+
+DATASET -5: trains-transformed
+		Accuracy Of Model: 66.66666666666667
